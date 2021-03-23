@@ -1,6 +1,3 @@
 # YU-ACM-Training
-This Repo will contain all file we use in our sessions
-- Day 1:
-  -
-  -
-  -
+## This Repository will contain all the data about our sessions, such as codes and questions.
+## Each day of the training will have a designated day in the repository.
