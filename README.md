@@ -5,3 +5,13 @@ Each day of the training will have a designated day in the repository, and this 
 # Day 1:
   - C++ Basics
   - Implementation and easy problems
+
+
+# Day 2:
+  - Complexity analysis
+  - C++ STL
+
+
+# Day 3:
+  - Frequency array
+  - Prefix Sum
