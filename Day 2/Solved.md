@@ -1,0 +1,3 @@
+- https://codeforces.com/contest/1213/problem/B >> Bad Prices
+- https://codeforces.com/contest/1025/problem/A >> Doggo Recoloring
+- https://codeforces.com/contest/230/problem/A >> Dragons
