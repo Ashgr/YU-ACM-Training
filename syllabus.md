@@ -1,5 +1,5 @@
 # This is a table that contains All topics we'll cover in this training
-|  Day     | Topics |
+|  Day        | Topics |
 |    :---:    | :------------------------------------------ : |
 | Dat 1       | Implementation and easy problems              |
 | Day 2       | Comlexity analysis  + C++ STL                 |
