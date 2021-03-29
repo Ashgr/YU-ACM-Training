@@ -7,4 +7,3 @@
 | Day 4       | Two pointers technique                        
 | Day 5       | Binary search algorithim                      
 | Day 6       | Number Theory                                 
-
