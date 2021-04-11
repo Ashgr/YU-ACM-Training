@@ -10,6 +10,7 @@ Each day of the training will have a designated day in the repository, and this 
 # Day 2:
   - Complexity analysis
   - C++ STL
+  - 
   part one => https://drive.google.com/file/d/1zYjT7zP-frDixkz0xQfB09roblkeQ-aJ/view?usp=sharing
   part two => https://drive.google.com/file/d/1Vsvl2H0WXTUyhfApY4CNM_ULkdF1klwM/view?usp=sharing
                    
@@ -19,9 +20,9 @@ Each day of the training will have a designated day in the repository, and this 
   - Frequency array
   - Prefix Sum
   
-  Recorded meeting : https://drive.google.com/file/d/1ihKb-eY6Ny_HO5FI7i5TWeDYy1G3SogZ/view?usp=sharing
+  - Recorded meeting : https://drive.google.com/file/d/1ihKb-eY6Ny_HO5FI7i5TWeDYy1G3SogZ/view?usp=sharing
   
   
 # Day 4:
   - Prefix Sum on intervals
-  recorded meeting : https://drive.google.com/file/d/1qKd_s-G2uOOwPE-L8oxXp6BBGcxL3YCD/view?usp=sharing
+  - recorded meeting : https://drive.google.com/file/d/1qKd_s-G2uOOwPE-L8oxXp6BBGcxL3YCD/view?usp=sharing
