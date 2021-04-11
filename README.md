@@ -18,6 +18,7 @@ Each day of the training will have a designated day in the repository, and this 
 # Day 3:
   - Frequency array
   - Prefix Sum
+  
   Recorded meeting : https://drive.google.com/file/d/1ihKb-eY6Ny_HO5FI7i5TWeDYy1G3SogZ/view?usp=sharing
   
   
