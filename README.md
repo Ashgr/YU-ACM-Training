@@ -25,3 +25,7 @@ Each day of the training will have a designated day in the repository, and this 
 # Day 4:
   - Prefix Sum on intervals
   - Recorded meeting : https://drive.google.com/file/d/1qKd_s-G2uOOwPE-L8oxXp6BBGcxL3YCD/view?usp=sharing
+
+# Day 5:
+  - Two pointers
+  - 
