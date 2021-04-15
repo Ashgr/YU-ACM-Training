@@ -28,4 +28,4 @@ Each day of the training will have a designated day in the repository, and this 
 
 # Day 5:
   - Two pointers
-  - 
+  - Recorded meeting : https://drive.google.com/file/d/1fQOjEgd7rQT6gR-iKZYqRUJJVsuPtUFO/view?usp=sharing
