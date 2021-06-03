@@ -32,4 +32,12 @@ Each day of the training will have a designated day in the repository, and this 
 
 # Day 6:
   - Binary Search
-  - Recorded meeting : not yet uploaded
+  - Recorded meeting : 
+    - part one : https://drive.google.com/file/d/1xmDcxusgGlRVXnFgeGyGbySF92TaDpIC/view?usp=sharing
+    - part two : https://drive.google.com/file/d/1SPEbf0kAPqvVeq6XVpC9fj8t0oUi5VQN/view?usp=sharing
+ 
+# Day 7:
+  - Recursion
+  - Recorded meeting : 
+    - part one : //
+    - part two : //
