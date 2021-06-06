@@ -39,5 +39,5 @@ Each day of the training will have a designated day in the repository, and this 
 # Day 7:
   - Recursion
   - Recorded meeting : 
-    - part one : //
-    - part two : //
+    - part one : https://drive.google.com/file/d/1wdXDDGthW18lHW-9IGqHlUlBlWT3KFdK/view?usp=sharing
+    - part two : https://drive.google.com/file/d/13A9DHwuIe2sW3ZJjIgeNoDh4SHLi4SbU/view?usp=sharing
