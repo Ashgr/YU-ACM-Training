@@ -1,7 +1,4 @@
-# Binary Search
-- https://codeforces.com/problemset/problem/706/B/ >> Interesting Drink
-- https://codeforces.com/contest/1183/problem/B >> Equalize Prices
-- https://codeforces.com/problemset/problem/670/D1 >> Magic Powder
-- https://codeforces.com/contest/439/problem/D >> Devu and his brother
-- https://codeforces.com/problemset/problem/1288/A >> Deadline
-- https://codeforces.com/contest/978/problem/C >> Letters
+# Recursion
+- https://codeforces.com/group/dfmvO0RN41/contest/227937/problem/B >> Parentheses
+- https://codeforces.com/group/dfmvO0RN41/contest/227937/problem/C >> Plus or Minus (A)
+- https://codeforces.com/problemset/problem/476/B >> Dreamoon and WiFi
